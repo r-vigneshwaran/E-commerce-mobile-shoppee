@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="FILTER_RESOLVED_ITEMS" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ed5d8ff-d01f-44f3-8e6a-151bd9e406e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Register/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Register/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML Template/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/_cart-template.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/_cart-template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/_new-phones.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/_new-phones.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/_products.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/_products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/_special-price.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/_special-price.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/_top-sale.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/_top-sale.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/_wishilist_template.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/_wishilist_template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/Cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/DBController.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/DBController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1gucBkpy8s5YAtDMTIkyE6EY4Gd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ed5d8ff-d01f-44f3-8e6a-151bd9e406e3" name="Default Changelist" comment="" />
+      <created>1598967787085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598967787085</updated>
+      <workItem from="1598967788929" duration="5924000" />
+      <workItem from="1599028657174" duration="1085000" />
+      <workItem from="1599053963357" duration="1104000" />
+      <workItem from="1599055290549" duration="2195000" />
+      <workItem from="1599212496677" duration="2467000" />
+      <workItem from="1599377403592" duration="12000" />
+      <workItem from="1599546717567" duration="751000" />
+      <workItem from="1599622813166" duration="5000" />
+      <workItem from="1599642896125" duration="280000" />
+      <workItem from="1599932693673" duration="17000" />
+      <workItem from="1599975448365" duration="417000" />
+      <workItem from="1600510156936" duration="2472000" />
+      <workItem from="1600595469885" duration="112000" />
+      <workItem from="1600673173012" duration="422000" />
+      <workItem from="1600685418839" duration="1171000" />
+      <workItem from="1601278884571" duration="1368000" />
+      <workItem from="1601288887150" duration="1044000" />
+      <workItem from="1601303839043" duration="1459000" />
+      <workItem from="1601305680864" duration="17000" />
+      <workItem from="1601363347981" duration="392000" />
+      <workItem from="1601375152709" duration="98000" />
+      <workItem from="1601393413992" duration="591000" />
+      <workItem from="1601479406787" duration="14000" />
+      <workItem from="1601551008530" duration="682000" />
+      <workItem from="1601881911706" duration="390000" />
+      <workItem from="1601990660452" duration="1047000" />
+      <workItem from="1602238313527" duration="1120000" />
+      <workItem from="1602241975582" duration="594000" />
+      <workItem from="1602567572333" duration="1226000" />
+      <workItem from="1602839666286" duration="1875000" />
+      <workItem from="1602841632109" duration="2488000" />
+      <workItem from="1602845532791" duration="814000" />
+      <workItem from="1602945631152" duration="1738000" />
+      <workItem from="1602947593112" duration="1027000" />
+      <workItem from="1603264877849" duration="939000" />
+      <workItem from="1603266924419" duration="1959000" />
+      <workItem from="1603281345472" duration="817000" />
+      <workItem from="1603293159400" duration="121000" />
+      <workItem from="1603368268749" duration="1299000" />
+      <workItem from="1603449291044" duration="1624000" />
+      <workItem from="1603520730672" duration="275000" />
+      <workItem from="1603527430763" duration="594000" />
+      <workItem from="1603548649308" duration="596000" />
+      <workItem from="1603555868998" duration="916000" />
+      <workItem from="1603560091463" duration="94000" />
+      <workItem from="1603686072707" duration="394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="6" key="#PHP" timestamp="1598968268350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="6" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1598968268350" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598968884171">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598968884171" />
+    <state x="754" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599054835736">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="754" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599054835736" />
+    <state x="797" y="282" width="331" height="152" key="NewPhpFileDialog" timestamp="1603281444308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="797" y="282" width="331" height="152" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603281444308" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1598968236250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598968236250" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1603281486511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603281486511" />
+  </component>
+</project>
